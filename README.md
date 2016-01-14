@@ -19,3 +19,7 @@ Second player with Arrows and P
 
 # Start Game
 Just run ManinistExecutable.exe
+
+# The team
+The project was made with other 2 colleagues:
+Georgian Tanase and Naiden Andretti Liviu which I want to thank them!

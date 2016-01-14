@@ -18,3 +18,4 @@ First player with W, A, S, D and space to shoot
 Second player with Arrows and P
 
 # Start Game
+Just run ManinistExecutable.exe

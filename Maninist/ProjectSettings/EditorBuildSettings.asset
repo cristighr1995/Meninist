@@ -13,9 +13,9 @@ EditorBuildSettings:
     path: Assets/menuReloaded.unity
   - enabled: 1
     path: Assets/Scenes/scene2.unity
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/scene3.unity
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/scene4.unity
   - enabled: 0
     path: Assets/Scenes/Meniu.unity
